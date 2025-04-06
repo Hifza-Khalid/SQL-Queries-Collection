@@ -1,4 +1,4 @@
-🚀# SQL Queries Collection
+# SQL Queries Collection
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/Hifza-Khalid/SQL-Queries-Collection)](https://github.com/Hifza-Khalid/SQL-Queries-Collection/stargazers) ⭐
